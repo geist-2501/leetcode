@@ -13,12 +13,6 @@ class Solution:
 
         return list(anagrams.values())
 
-    def get_word_bag(self, word: str) -> FrozenSet[str]:
-        bag = {}
-        for letter in word:
-            if letter in bag:
-                bag[letter] = bag[letter] + 1
-            else:
-                bag[letter] = 1
-
-        return frozenset(bag.items())
+    def get_word_bag(self, word: str) -> Tuple[str]:
+        w: List[str] = sorted(word)
+        return tuple(w)
