@@ -13,6 +13,5 @@ class Solution:
 
         return list(anagrams.values())
 
-    def get_word_bag(self, word: str) -> Tuple[str]:
-        w: List[str] = sorted(word)
-        return tuple(w)
+    def get_word_bag(self, word: str) -> str:
+        return ''.join(sorted(word))
