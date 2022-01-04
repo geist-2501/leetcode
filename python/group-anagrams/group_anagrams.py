@@ -1,4 +1,5 @@
-from typing import *
+# https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/
+from typing import List
 
 
 class Solution:
