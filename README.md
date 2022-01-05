@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-This is the repo where I dump all my Leetcode stuff. The languages they are mostly solved in are Python and Java, although I'm learning Go and Rust, so they may show up sometimes.
+This is the repo where I dump all my Leetcode stuff. The languages they are mostly solved in are Python and Kotlin.
 
 | Problem                                                                                                                                   | Lang                                                                     | Diff   |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|
@@ -10,3 +10,5 @@ This is the repo where I dump all my Leetcode stuff. The languages they are most
 | [group anagrams](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/)                   | [Python](./python/group-anagrams)                                        | Medium |
 | [longest palindromic substring](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/)    | [Python](./python/longest-palindromic-substring)                         | Medium |
 | [odd even linked list](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)                   | [Python](./python/odd-even-linked-list)                                  | Medium |
+| [intersection of two lists](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)              | [Python](./python/intersection-of-two-lists)                             | Medium |
+| [bt zigzag order traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/787/)         | [Python](./python/bt-zigzag-level-order-traversal)                       | Medium |
